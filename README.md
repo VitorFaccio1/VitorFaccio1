@@ -14,10 +14,14 @@
   
   ##
  
-<div> 
+ <div align="center">
   <a href="https://instagram.com/vitorfaccio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vitorfaccio6@gmail.com" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-faccio-73217a195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://api.whatsapp.com/send?phone=5516996280697" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+ </div>
  
   ![Snake animation](https://github.com/VitorFaccio1/VitorFaccio1/blob/output/github-contribution-grid-snake.svg)
  
